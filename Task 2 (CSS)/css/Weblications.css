@@ -1,0 +1,100 @@
+/*Header Section Starts*/
+
+#black{
+display: inline-block;
+margin-left: 30px;
+margin-top: 0px;
+font-family: cursive;
+}
+#White{
+display: inline-block;
+}
+h2{
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 520px;
+  border: 1px solid;
+  border-radius: 30px;
+  background: #E74C3C;
+  text-align: center;
+  font-family: cursive;
+  opacity: 0.8;
+  margin-top: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#work{
+  text-align: center;
+  color: #2C3E50;
+  font-family: cursive;
+  padding-left: 0px;
+}
+
+#background{
+  background-image: url(../img/Everest.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  width: 900;
+  background-color: #BDC3C7;
+}
+
+
+ul li{
+display:inline-block;
+margin-right: 30px;
+}
+
+nav{
+color:#2C3E50;
+  float: right;
+  margin-top: 10px;
+}
+/*Header Ends Here*/
+
+/*Body Starts Here*/
+body{
+  background-color: #ECF0F1;
+}
+#Stories{
+  display: inline-block;
+  text-align:inherit;
+  width: 33%;
+  margin-left: 200px;
+  font-size: 24px;
+  color: #2C3E50;
+}
+
+#Upcomingevents{
+  display: inline-block;
+  text-align: inherit;
+  width: 32%;
+  font-size: 24px;
+  margin-left: 100px;
+  color:#2C3E50;
+}
+
+.underline{
+  border-top: 1px solid #8c8b8b;
+}
+
+.picture{
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.commas{
+  margin-top: 2px;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+#quotation{
+  margin-top: 1px;
+  margin-bottom: 2px;
+  display: inline-block;
+}
+
+#final{
+  font-family: cursive;
+}
